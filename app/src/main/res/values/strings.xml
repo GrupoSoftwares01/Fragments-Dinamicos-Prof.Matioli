@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fragments Dinamicos Prof.Matioli</string>
+    <string name="strgFragmentoEsquerdo">Fragmento Esquerdo</string>
+    <string name="strgFragmentoDireito">Fragmento Esquerdo</string>
+</resources>
